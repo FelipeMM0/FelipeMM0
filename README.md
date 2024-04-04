@@ -1,7 +1,7 @@
 # Felipe Mendes
 Full Stack Developer (focusing on Javascript technologies) 🖥️🖱️
 
-- 📚 Área de interesse: React, React Native, TypeScript, Node Js, Elixir, SQL ;
+- 📚 Área de interesse: React, NodeJs, React Native, TypeScript, SQL ;
 - 📪 Contate-me no e-mail: felipemendescp720@gmail.com ;
 
 ##
