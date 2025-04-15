@@ -1,10 +1,8 @@
 # Felipe Mendes
-**Full Stack Developer (focusing on Javascript technologies)**
-
-<hr style="height:1px; border:none; background-color:#e1e4e8; margin: 16px 0;" />
+**Full Stack Developer (focusing on Javascript technologies)** 🖥️🖱️
 
 ### 🧠 My focus areas in development
-- Javascript, React, NodeJs, Next.js, NestJs, TypeScript, MySQL;
+- 📚 Javascript, React, NodeJs, Next.js, NestJs, TypeScript, MySQL;
 
 <div>
   <a href="https://beacons.ai/FelipeMM0">
