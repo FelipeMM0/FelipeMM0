@@ -17,7 +17,7 @@ Full Stack Developer (focusing on Javascript technologies) 🖥️🖱️
 Let’s connect and talk about tech, projects, and ideas.
 <div>
   <a href="https://www.linkedin.com/in/felipe-mendes-99a791249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Mendes-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Felipe Mendes"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Mendes-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn - Felipe Mendes"/>
   </a>
 </div>
 
